@@ -1,0 +1,3 @@
+/media/raffaele/KINGSTON/PROGETTI/NetSentinel/build/CMakeFiles/NetSentinel.dir
+/media/raffaele/KINGSTON/PROGETTI/NetSentinel/build/CMakeFiles/edit_cache.dir
+/media/raffaele/KINGSTON/PROGETTI/NetSentinel/build/CMakeFiles/rebuild_cache.dir
